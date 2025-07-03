@@ -1,0 +1,32 @@
+#button {
+    color: white;
+    background-color: red;
+    padding:12px 20px ;
+    font-size: 16px;
+    position: absolute;
+    margin-top: 180px;
+    transition: transform 0.2s;
+}
+body {
+    text-align: center;
+}
+div {
+    font-size: 50px;
+}
+.hidden {
+    display: none !important;
+}
+#button2, #button3 {
+    background-color: #44ff44;
+    color: black;
+    padding: 15px 32px;
+    font-size: 30px;
+    border-radius: 5px;
+    margin: 200px;
+    cursor: pointer;
+    margin-top: 150px;
+}
+h {
+    transition: all 0.5s ease;
+    min-height: 2em; 
+}
